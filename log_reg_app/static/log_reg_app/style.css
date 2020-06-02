@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px solid red; */
+}
+
+#messageErrors{
+    color: white;
+    background-color: lightcoral;
+    border: 1px solid darkgray;
+    list-style-position: inside;
+}
